@@ -86,7 +86,7 @@ Technologies Used
 
 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/rbac-management-ui.git
+git clone https://github.com/adarsh291201/rbac1.git
 cd ui
 2. Install Dependencies
 npm install
