@@ -94,7 +94,7 @@ npm install
 Create a file named db.json in the root directory with the following content:
 {
   "users": [
-    { "id": 1, "name": "Hritik nagar", "email": "hritik@example.com", "role": "Admin", "status": "Active" },
+    { "id": 1, "name": "adarsh raj", "email": "adarsh@gmail.com", "role": "Admin", "status": "Active" },
     { "id": 2, "name": "Rnnk ", "email": "rnnk@example.com", "role": "Editor", "status": "Inactive" }
   ],
   "roles": [
